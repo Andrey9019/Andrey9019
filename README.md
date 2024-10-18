@@ -6,8 +6,8 @@
 - 📫 How to reach me: zirchenko.andrii@gmail.com
 
 ## Technologies I know
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3-alt"></i> CSS
-- <i class="fab fa-react"></i> React
-- <i class="fab fa-js-square"></i> JavaScript
-- <i class="fab fa-tailwindcss"></i> Tailwind CSS
+- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
+- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) Tailwind CSS
