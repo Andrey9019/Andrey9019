@@ -1,5 +1,4 @@
 ## Hi there, I'm Andrii 👋
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 - 🔭 Working on personal projects to improve my web development skills.
 - 🌱 Currently learning new web technologies and best practices.
