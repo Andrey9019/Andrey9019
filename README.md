@@ -1,4 +1,4 @@
-## Hi there, I'm Andrii 👋
+## Hi there, I'm Andriy 👋
 
 - 🔭 Working on personal projects to improve my web development skills.
 - 🌱 Currently learning new web technologies and best practices.
