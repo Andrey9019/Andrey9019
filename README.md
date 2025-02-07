@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andriy 👋</h1>
+<h1 align="center">Hi, I'm Andriy 👋</h1>GIF
 
 - 🔭 Working on personal projects to improve my web development skills.
 - 🌱 Currently learning new web technologies and best practices.
