@@ -6,7 +6,7 @@
 - 📫 How to reach me: zirchenko.andrii@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> 
@@ -55,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey9019&show_icons=true&locale=en" alt="andrey9019" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrey9019&" alt="andrey9019" /></p>
+
