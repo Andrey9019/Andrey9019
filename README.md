@@ -53,9 +53,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrey9019&show_icons=true&locale=en&layout=compact" alt="andrey9019" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey9019&show_icons=true&locale=en" alt="andrey9019" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=andrey9019&show_icons=true&locale=en" alt="andrey9019" /></p>
 
-[![Codewars](https://www.codewars.com/users/Andrey9019/badges/large)](https://www.codewars.com/users/Andrey9019)
+<p align="left">[![Codewars](https://www.codewars.com/users/Andrey9019/badges/small)](https://www.codewars.com/users/Andrey9019)</p>
 
 
 
