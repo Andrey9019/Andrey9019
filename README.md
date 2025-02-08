@@ -42,7 +42,7 @@
   </a> 
 </p>
 
-<h2>GitHub Stats :</h2> 
+<h3>GitHub Stats :</h3> 
 
 <table align="center">
   <tr>
