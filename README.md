@@ -55,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey9019&show_icons=true&locale=en" alt="andrey9019" /></p>
 
-[![Codewars](https://www.codewars.com/users/Andrey9019/badges/small)](https://www.codewars.com/users/Andrey9019)
+[![Codewars](https://www.codewars.com/users/Andrey9019/badges/large)](https://www.codewars.com/users/Andrey9019)
 
 
 
