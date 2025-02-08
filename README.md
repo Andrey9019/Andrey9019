@@ -47,12 +47,10 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/andrey9019/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrey9019&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" />
   </a>
   </td>
   <td>
-  <a href="https://github.com/andrey9019/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&layout=compact&theme=buefy&hide_border=true" />
   </a>
   </td>
