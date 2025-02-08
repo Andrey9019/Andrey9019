@@ -28,9 +28,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
@@ -40,22 +37,33 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
 </p>
 
-[![Codewars](https://www.codewars.com/users/Andrey9019/badges/large)](https://www.codewars.com/users/Andrey9019)
+<h2>GitHub Stats :</h2> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrey9019&show_icons=true&locale=en&layout=compact" alt="andrey9019" /></p>
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/Andrey9019/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrey9019&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" />
+  </a>
+  </td>
+  <td>
+  <a href="https://github.com/Andrey9019/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+  </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=andrey9019&show_icons=true&locale=en" alt="andrey9019" /></p>
+<div align="center">
+<a href="https://www.codewars.com/users/Andrey9019"><img src="https://www.codewars.com/users/Andrey9019/badges/small">
+</div>
+
+<br>
 
 
 
