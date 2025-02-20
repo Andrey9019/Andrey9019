@@ -56,6 +56,7 @@
   </td>
   </tr>
 </table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&size_weight=0.5&count_weight=0.5)
 
 <div align="center">
 <a href="https://www.codewars.com/users/Andrey9019"><img src="https://www.codewars.com/users/Andrey9019/badges/small">
