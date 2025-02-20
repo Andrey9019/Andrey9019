@@ -51,16 +51,12 @@
   </a>
   </td>
   <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&layout=compact&theme=buefy&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&size_weight=0.5&count_weight=0.5&layout=compact&theme=buefy&hide_border=true" />
   </a>
   </td>
   </tr>
 </table>
 
-<td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&size_weight=0.5&count_weight=0.5&layout=compact&theme=buefy&hide_border=true" />
-  </a>
-  </td>
 
 <div align="center">
 <a href="https://www.codewars.com/users/Andrey9019"><img src="https://www.codewars.com/users/Andrey9019/badges/small">
