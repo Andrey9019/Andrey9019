@@ -58,7 +58,7 @@
 </table>
 
 <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&size_weight=0.5&count_weight=0.5" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&size_weight=0.5&count_weight=0.5&layout=compact&theme=buefy&hide_border=true" />
   </a>
   </td>
 
