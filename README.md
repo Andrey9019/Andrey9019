@@ -47,11 +47,11 @@
 <table align="center">
   <tr>
   <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chertik77&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrey9019&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" />
   </a>
   </td>
   <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey9019&size_weight=0.5&count_weight=0.5&layout=compact&theme=buefy&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chertik77&size_weight=0.5&count_weight=0.5&layout=compact&theme=buefy&hide_border=true" />
   </a>
   </td>
   </tr>
